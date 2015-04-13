@@ -30,9 +30,9 @@ Partial Class Form1
         Me.Label1.AutoSize = True
         Me.Label1.Location = New System.Drawing.Point(106, 43)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(48, 13)
+        Me.Label1.Size = New System.Drawing.Size(95, 13)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "Lê So Ni"
+        Me.Label1.Text = "Lê So Ni PS02064"
         '
         'Form1
         '

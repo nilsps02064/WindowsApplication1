@@ -1,1 +1,2 @@
 C:\Users\Soni\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Soni\Documents\Visual Studio 2012\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
